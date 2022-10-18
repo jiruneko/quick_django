@@ -1,4 +1,4 @@
-# quick-django
+# Quick-django
 
 社員検索呼出
 
